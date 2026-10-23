@@ -52,7 +52,7 @@ Documents the business objectives, scope, stakeholders, assumptions, constraints
 
 📎 **File:** `Ecommerce_Returns_Feature_BRD_Hridia_Christeen_Binu(1).pdf`
 
-[📥 View the Business Requirements Document](Ecommerce_Returns_Feature_BRD_Hridia_Christeen_Binu%281%29.pdf)
+[📥 View the Business Requirements Document](https://github.com/Hridia-Christeen-Binu/Ecommerce-returns-management/blob/9a888e18f91188ae35d52a5622048b4b87802624/Ecommerce_Returns_Feature_BRD_Hridia_Christeen_Binu.pdf)
 
 ### 📊 2. Requirements Traceability Matrix (RTM)
 
@@ -60,7 +60,7 @@ An Excel-based matrix designed to support structured requirements tracking and t
 
 📎 **File:** `E-COMMERCE RETURNS FEATURE — REQUIREMENTS TRACEABILITY MATRIX(1).xlsx`
 
-[📥 View the Requirements Traceability Matrix](https://github.com/Hridia-Christeen-Binu/Ecommerce-returns-management/blob/7885a6ed6c6e536e93906cf64aace487abf3c649/E-COMMERCE%20RETURNS%20FEATURE%20%E2%80%94%20REQUIREMENTS%20TRACEABILITY%20MATRIX.xlsx )
+[📥 View the Requirements Traceability Matrix](https://github.com/Hridia-Christeen-Binu/Ecommerce-returns-management/blob/7885a6ed6c6e536e93906cf64aace487abf3c649/E-COMMERCE%20RETURNS%20FEATURE%20%E2%80%94%20REQUIREMENTS%20TRACEABILITY%20MATRIX.xlsx)
 
 ### 🎨 3. Customer Journey Wireframes
 
