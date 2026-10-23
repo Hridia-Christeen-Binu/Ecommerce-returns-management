@@ -60,7 +60,7 @@ An Excel-based matrix designed to support structured requirements tracking and t
 
 📎 **File:** `E-COMMERCE RETURNS FEATURE — REQUIREMENTS TRACEABILITY MATRIX(1).xlsx`
 
-[📥 View the Requirements Traceability Matrix](E-COMMERCE%20RETURNS%20FEATURE%20%E2%80%94%20REQUIREMENTS%20TRACEABILITY%20MATRIX%281%29.xlsx)
+[📥 View the Requirements Traceability Matrix](https://github.com/Hridia-Christeen-Binu/Ecommerce-returns-management/blob/7885a6ed6c6e536e93906cf64aace487abf3c649/E-COMMERCE%20RETURNS%20FEATURE%20%E2%80%94%20REQUIREMENTS%20TRACEABILITY%20MATRIX.xlsx )
 
 ### 🎨 3. Customer Journey Wireframes
 
