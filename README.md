@@ -2,24 +2,24 @@
 
 ### 📌 Independent Business Analysis Case Study
 
-**👩‍💻 Author:** Hridia Christeen Binu  
-**📅 Date:** October 2026  
-**🎯 Focus Areas:** Business Analysis · Requirements Engineering · Wireframing · Process Design
+👩‍💻 **Author:** Hridia Christeen Binu  
+📅 **Date:** October 2026  
+🎯 **Focus Areas:** Business Analysis · Requirements Engineering · Wireframing · Project Planning
 
 ---
 
 ## 📖 Project Overview
 
-This project explores a proposed **E-commerce Returns Management Feature** designed to simplify product returns, improve customer experience, strengthen fraud prevention, and provide greater visibility into return and refund status.
+This project documents a proposed **E-commerce Returns Management Feature** designed to simplify product returns, improve customer experience, strengthen fraud prevention, and provide greater visibility into return and refund status.
 
-The case study demonstrates practical business analysis skills through requirements documentation, stakeholder analysis, scope definition, risk identification, requirements traceability, and wireframing.
+The case study demonstrates business analysis skills through requirements documentation, stakeholder analysis, scope definition, risk identification, requirements traceability, and wireframing.
 
-> 💡 **Project Note:** This is an independent, project-based case study focused on documentation and wireframing. It is not a live application; development, production deployment, and actual system integrations are outside the project scope.
+> 💡 **Project Note:** This is an independent, project-based case study focused on documentation and wireframing. It is not a live application. Development, production deployment, and actual system integrations are outside the project scope.
 
 ## 🎯 Business Objectives
 
 - 📦 Enable eligible returns within 15 calendar days of delivery.
-- ✅ Validate product eligibility against return policies.
+- ✅ Validate return eligibility against product categories and return policies.
 - 📝 Simplify return-reason selection and request submission.
 - 🔎 Provide transparent return-status tracking.
 - 🚚 Define courier pickup, warehouse quality-check, and refund workflows.
@@ -33,7 +33,7 @@ The case study demonstrates practical business analysis skills through requireme
 - Return-reason selection and proposed approval rules.
 - Courier pickup request requirements.
 - Return-status tracking.
-- Refund processing following quality control.
+- Refund processing requirements following quality control.
 - Return-cost reporting requirements.
 - Requirements documentation, wireframes, and traceability.
 
@@ -44,19 +44,23 @@ The case study demonstrates practical business analysis skills through requireme
 - Live financial or warehouse system integrations.
 - AI-based fraud prediction and advanced predictive analytics.
 
-## 📦 Key Deliverables
+## 📦 Project Deliverables
 
 ### 📄 1. Business Requirements Document (BRD)
 
-Documents business objectives, project scope, stakeholder responsibilities, assumptions, constraints, requirements, proposed success metrics, and risk mitigations.
+Documents the business objectives, scope, stakeholders, assumptions, constraints, requirements, proposed success measures, and risks with proposed mitigations.
 
-📎 [View Business Requirements Document](docs/Business-Requirements-Document.pdf)
+📎 **File:** `Ecommerce_Returns_Feature_BRD_Hridia_Christeen_Binu(1).pdf`
+
+[📥 View the Business Requirements Document](Ecommerce_Returns_Feature_BRD_Hridia_Christeen_Binu%281%29.pdf)
 
 ### 📊 2. Requirements Traceability Matrix (RTM)
 
 An Excel-based matrix designed to support structured requirements tracking and traceability.
 
-📎 [View Requirements Traceability Matrix](requirements/Requirements-Traceability-Matrix.xlsx)
+📎 **File:** `E-COMMERCE RETURNS FEATURE — REQUIREMENTS TRACEABILITY MATRIX(1).xlsx`
+
+[📥 View the Requirements Traceability Matrix](E-COMMERCE%20RETURNS%20FEATURE%20%E2%80%94%20REQUIREMENTS%20TRACEABILITY%20MATRIX%281%29.xlsx)
 
 ### 🎨 3. Customer Journey Wireframes
 
@@ -65,7 +69,9 @@ Two wireframes illustrate the proposed customer experience:
 - 🛒 **Return Initiation:** Customers select an eligible order, choose a return reason, and submit a request.
 - 🔄 **Return Status Tracking:** Customers follow progress through approval, pickup, warehouse receipt, quality checks, and refund completion.
 
-![E-commerce Returns Management Wireframes](wireframes/returns-management-wireframes.jpg)
+📎 **File:** `Wireframe of ecommerce return feature using lucidchart(1).jpeg`
+
+[🖼️ View the Wireframes](Wireframe%20of%20ecommerce%20return%20feature%20using%20lucidchart%281%29.jpeg)
 
 ## ⚙️ Functional Requirements
 
@@ -84,7 +90,7 @@ The project defines **8 functional requirements**:
 
 ## 🛠️ Non-Functional Requirements
 
-The project also documents **4 non-functional requirements**:
+The project documents **4 non-functional requirements**:
 
 - ⚡ **Performance:** Return API response time under 2 seconds.
 - 🔐 **Security:** OTP verification for refunds.
@@ -104,7 +110,7 @@ The project also documents **4 non-functional requirements**:
 
 ## 📈 Proposed Success Metrics
 
-The BRD establishes the following proposed targets:
+The BRD defines the following proposed targets:
 
 | Metric | Target |
 |---|---|
@@ -126,33 +132,27 @@ The BRD establishes the following proposed targets:
 
 ## 🧰 Tools & Skills Demonstrated
 
-**Business Analysis:** BRD, functional and non-functional requirements, scope definition, stakeholder analysis.
-
-**Project Delivery:** Requirements traceability, risk identification, workflow definition, acceptance expectations.
-
-**Tools:** Lucidchart · Microsoft Excel · PDF documentation.
-
-## 📁 Repository Structure
-
-```text
-ecommerce-returns-management/
-├── 📄 README.md
-├── 📂 docs/
-│   └── Business-Requirements-Document.pdf
-├── 📂 requirements/
-│   └── Requirements-Traceability-Matrix.xlsx
-└── 📂 wireframes/
-    └── returns-management-wireframes.jpg
-```
+- 📋 Business Requirements Documentation (BRD)
+- 🧩 Functional and Non-Functional Requirements
+- 🎯 Scope Definition and Stakeholder Analysis
+- 🔗 Requirements Traceability
+- ⚠️ Risk Identification and Mitigation
+- 🎨 Lucidchart Wireframing
+- 📊 Microsoft Excel
 
 ## 🌟 Key Takeaways
 
-This project demonstrates how business needs can be translated into structured requirements and visual workflows to support stakeholder alignment, solution design, testing, and future project delivery.
+This case study demonstrates how business needs can be translated into structured requirements and visual workflows to support stakeholder alignment, solution design, testing, and future project delivery.
 
 ---
 
 ### 👋 About This Project
 
-Created as an independent portfolio project to demonstrate business analysis, documentation, and project planning capabilities.
+Created as an independent portfolio project to demonstrate business analysis, requirements documentation, and project planning capabilities.
 
-⭐ *If you find this case study useful, feel free to explore the project files and wireframes.*
+⭐ *Explore the documents and wireframes to learn more about the proposed solution.*
+
+
+
+
+
