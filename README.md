@@ -71,7 +71,7 @@ Two wireframes illustrate the proposed customer experience:
 
 📎 **File:** `Wireframe of ecommerce return feature using lucidchart(1).jpeg`
 
-[🖼️ View the Wireframes](Wireframe%20of%20ecommerce%20return%20feature%20using%20lucidchart%281%29.jpeg)
+[🖼️ View the Wireframes](https://github.com/Hridia-Christeen-Binu/Ecommerce-returns-management/blob/68ac075de85a8bdd378a41c73294bd5b840dedab/Wireframe%20of%20ecommerce%20return%20feature%20using%20lucidchart.jpeg)
 
 ## ⚙️ Functional Requirements
 
